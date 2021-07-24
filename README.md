@@ -1,5 +1,7 @@
 # AWS Lambda Boilerplate for JAVA and Spring IoC
 
+- https://github.com/aws/aws-lambda-java-libs/tree/master/aws-lambda-java-log4j2
+
 Do you miss JAVA, its great features and all Spring framework sugar in AWS Lambda? Use this boilerplate code to author JAVA functions in Lambda and enjoy all features of Spring IoC. It also supports local debugging of JAVA functions.
 
 ## Usage
