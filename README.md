@@ -1,5 +1,6 @@
 # AWS Lambda Boilerplate for JAVA and Spring IoC
 
+- https://github.com/vaquarkhan/aws-log-level
 - https://github.com/aws/aws-lambda-java-libs/tree/master/aws-lambda-java-log4j2
 - https://github.com/aws/aws-lambda-java-libs
 
