@@ -37,3 +37,8 @@ You can upload the created JAR folder to AWS Lambda console. Handler function sh
 ## More about the topic
 
 - Check out [Lambada Framework](https://github.com/lambadaframework/lambadaframework) for seamless AWS Lambda and JAVA integration.
+
+
+- https://stackoverflow.com/questions/51651507/is-it-possible-to-change-the-log-level-of-an-aws-lambda-at-runtime
+- https://frank-afriat.medium.com/solving-the-java-aws-lambda-logging-problem-305b06df457f
+- https://kathirmunai.com/logging-in-aws-lambda-with-slf4j?__cf_chl_jschl_tk__=pmd_189c3b9c98b86495a7339ed202e8d56645c66127-1627313760-0-gqNtZGzNAfijcnBszQdO
